@@ -1,0 +1,15 @@
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/bin/Debug/net8.0/PilhaEstatica
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/bin/Debug/net8.0/PilhaEstatica.deps.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/bin/Debug/net8.0/PilhaEstatica.runtimeconfig.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/bin/Debug/net8.0/PilhaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/bin/Debug/net8.0/PilhaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.AssemblyInfoInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.AssemblyInfo.cs
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.csproj.CoreCompileInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.sourcelink.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/refint/PilhaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/PilhaEstatica.genruntimeconfig.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/Debug/net8.0/ref/PilhaEstatica.dll

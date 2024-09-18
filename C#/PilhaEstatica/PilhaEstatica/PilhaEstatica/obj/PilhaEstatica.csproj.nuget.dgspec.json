@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/PilhaEstatica.csproj": {}
+  },
+  "projects": {
+    "/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/PilhaEstatica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/PilhaEstatica.csproj",
+        "projectName": "PilhaEstatica",
+        "projectPath": "/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/PilhaEstatica.csproj",
+        "packagesPath": "/home/kitsunehearts/.nuget/packages/",
+        "outputPath": "/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/PilhaEstatica/PilhaEstatica/PilhaEstatica/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitsunehearts/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/kitsunehearts/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
