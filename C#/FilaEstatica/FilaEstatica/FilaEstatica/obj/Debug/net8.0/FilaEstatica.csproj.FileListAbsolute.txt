@@ -1,0 +1,15 @@
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/bin/Debug/net8.0/FilaEstatica
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/bin/Debug/net8.0/FilaEstatica.deps.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/bin/Debug/net8.0/FilaEstatica.runtimeconfig.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/bin/Debug/net8.0/FilaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/bin/Debug/net8.0/FilaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.AssemblyInfoInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.AssemblyInfo.cs
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.csproj.CoreCompileInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.sourcelink.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/refint/FilaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/FilaEstatica.genruntimeconfig.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/FilaEstatica/FilaEstatica/FilaEstatica/obj/Debug/net8.0/ref/FilaEstatica.dll
