@@ -1,0 +1,15 @@
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/bin/Debug/net8.0/ListaEstatica
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/bin/Debug/net8.0/ListaEstatica.deps.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/bin/Debug/net8.0/ListaEstatica.runtimeconfig.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/bin/Debug/net8.0/ListaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/bin/Debug/net8.0/ListaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.AssemblyInfoInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.AssemblyInfo.cs
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.csproj.CoreCompileInputs.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.sourcelink.json
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/refint/ListaEstatica.dll
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.pdb
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ListaEstatica.genruntimeconfig.cache
+/home/kitsunehearts/Estruturas-Dados/Estruturas-Dados/C#/ListaEstatica/ListaEstatica/ListaEstatica/obj/Debug/net8.0/ref/ListaEstatica.dll
