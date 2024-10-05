@@ -71,7 +71,7 @@ class ListaEstatica(val tamanho: Int = 10) : Listavel {
 
         if (!estaVazia()) {
             for (i in 0 until quantidade) {
-                dados[i] = dados[(ponteiroAux+1) % dados.size]
+                retorno[i] = dados[(ponteiroAux+1) % dados.size]
             }
         }
 
