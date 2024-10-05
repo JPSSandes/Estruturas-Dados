@@ -26,7 +26,12 @@ public class ListaEstatica <T> implements Listavel<T> {
     public void anexar(T dado) {
         if (!estaCheia()) {
             ponteiroFim++;
-            dados[(ponteiroFim + 1) % dados.length] = dado;
+
+            if (ponteiroFim >= dados.length) {
+                ponteiroFim = 0;
+            }
+
+            dados[ponteiroFim] = dado;
             quantidade++;
         } else {
             throw new RuntimeException("Lista Cheia!");
@@ -101,17 +106,55 @@ public class ListaEstatica <T> implements Listavel<T> {
 
     @Override
     public void atualizar(int posicao, T dado) {
-
+        if (!estaVazia()) {
+            if (posicao >= 0 && posicao < dados.length) {
+                int posicaoFisica = (ponteiroInicio + posicao) % dados.length;
+                dados[posicaoFisica] = dado;
+            } else {
+                throw new RuntimeException("Indice inválido!");
+            }
+        } else {
+            throw new RuntimeException("Lista Vazia!");
+        }
     }
 
     @Override
     public T apagar(int posicao) {
-        return null;
+        T retorno = null;
+
+        if (!estaVazia()) {
+            if (posicao >= 0 && posicao < dados.length) {
+                int posicaoFisica = (ponteiroInicio + posicao) % dados.length;
+                int ponteiroAux = posicaoFisica;
+
+                for (int i = 0; i < quantidade - 1; i++) {
+                    int atual = ponteiroAux;
+                    int proximo = (ponteiroAux + 1) % dados.length;
+
+                    dados[atual] = dados[proximo];
+                    ponteiroAux++;
+                }
+
+                ponteiroFim--;
+
+                if (ponteiroFim == -1) {
+                    ponteiroFim = dados.length - 1;
+                }
+
+                quantidade--;
+            }
+        } else {
+            throw new RuntimeException("Lista Vazia!");
+        }
+
+        return retorno;
     }
 
     @Override
     public void apagarTodos() {
-
+        for (int i = 0; i < quantidade; i++) {
+            apagar(i);
+        }
     }
 
     // métodos 2 //
@@ -131,10 +174,10 @@ public class ListaEstatica <T> implements Listavel<T> {
         String retorno = "[";
         int ponteiroAux = ponteiroInicio;
 
-        for (int i = 0; i < quantidade - 1; i++) {
-            retorno += dados[(ponteiroAux + i)%dados.length];
+        for (int i = 0; i < quantidade; i++) {
+            retorno += dados[ponteiroAux % dados.length];
 
-            if (i != quantidade - 2) {
+            if (i != quantidade - 1) {
                 retorno += ", ";
             }
 
